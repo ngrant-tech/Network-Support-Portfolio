@@ -141,7 +141,7 @@ Enterprise network infrastructure relies on proper network segmentation, scalabl
 ![Switch Port Security Configuration](screenshots/40.png)
 ![Switch Port Security Configuration](screenshots/41.png)
 
-### Enterprise Wireless Network Deployment
+### Wireless Network Deployment
 
 ![Enterprise Wireless Network Deployment](screenshots/42.png)
 ![Enterprise Wireless Network Deployment](screenshots/43.png)
