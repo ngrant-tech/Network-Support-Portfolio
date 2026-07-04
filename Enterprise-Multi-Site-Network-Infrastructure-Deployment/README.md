@@ -14,13 +14,6 @@ Demonstrated hands-on experience designing and deploying a simulated enterprise 
 - Server-PT
 - PC-PT
 - Printer-PT
-- VLANs
-- IEEE 802.1Q Trunking
-- Router-on-a-Stick (Inter-VLAN Routing)
-- RIPv2
-- DHCP
-- IPv4 Addressing
-- Serial WAN Connections
 
 ---
 
