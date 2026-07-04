@@ -56,7 +56,6 @@ This project demonstrates practical experience with enterprise network infrastru
 - Enterprise LAN/WAN Implementation
 - Network Segmentation
 - Network Validation
-- Network Troubleshooting
 
 ---
 
