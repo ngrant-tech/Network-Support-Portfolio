@@ -15,7 +15,7 @@ Designed and deployed a multi-site enterprise campus network connecting a main c
 **Key Skills:**  
 Enterprise Network Deployment • Cisco Routing and Switching • Layer 3 Switching • VLAN Configuration • IEEE 802.1Q Trunking • Inter-VLAN Routing • Router-on-a-Stick • RIPv2 • DHCP • IPv4 Addressing • Enterprise Server Integration • Network Validation
 
-[View Project](Enterprise-Multi-Site-Campus-Network-Infrastructure-Deployment/)
+[View Project](Enterprise-Multi-Site-Network-Infrastructure-Deployment/)
 
 ---
 
